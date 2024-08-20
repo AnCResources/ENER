@@ -1,6 +1,4 @@
-# Engineering Education Journals
-
-The following are the list of journals focused only on the Engineering Education Research, these are field specific and the first option for publishing in the field.
+# Engineering Focused
 
 ## American Educational Research Journal
 
@@ -10,12 +8,15 @@ The _<a href="https://us.sagepub.com/en-us/nam/journal/american-educational-rese
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 3.6
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 144
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 N/A
 :::
 
@@ -25,14 +26,17 @@ N/A
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: N/A
 
 For publication: N/A
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 50 doubled-spaced pages (All)
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 Free - Non subscriptors unavailable
 
 Open Access fee: $2500
@@ -65,12 +69,15 @@ The journal publishes research articles in the following areas:
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 2.0
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 N/A
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 14%
 :::
 
@@ -80,14 +87,17 @@ N/A
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 9 days
 
 For publication: 169 days
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 N/A
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 Free - N/A
 
 Open Access fee: N/A
@@ -126,12 +136,15 @@ Researchers in technical communication, technical work, and engineering educatio
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 1.65
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 26
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 13%
 :::
 
@@ -141,17 +154,20 @@ Researchers in technical communication, technical work, and engineering educatio
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 6 days
 
 For publication: 7 - 9 weeks
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 10.000 words at submission (All)
 
 11.500 words at revision (All)
 :::
 :::{grid-item-card} Publishing Charge
-Free - Non subscriptors unavailable
+:text-align: center
+Processing Charge: N/A
 
 Open Access fee: $4000
 :::
@@ -168,12 +184,15 @@ Only manuscripts that have a focus on engineering education will be considered f
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 1.12
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 56
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 N/A
 :::
 
@@ -183,14 +202,17 @@ N/A
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 3 - 4 weeks (review)
 
 For publication: N/A
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 N/A
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 
 Open Access fee: $95 per page
 :::
@@ -224,12 +246,15 @@ iJEP is open to all aspects of engineering pedagogy. Major fields of interest in
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 1.6
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 19
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 N/A
 :::
 
@@ -239,14 +264,17 @@ N/A
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 2 weeks
 
 For publication: 6 weeks
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 12 - 16 pages
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 Processing Charge: 510 EUR (+25 additional pages)
 
 Open Access fee: free
@@ -263,12 +291,15 @@ The _<a href="https://onlinelibrary.wiley.com/journal/21689830" target="_blank"
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 3.4
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 126
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 14%
 :::
 
@@ -278,15 +309,18 @@ The _<a href="https://onlinelibrary.wiley.com/journal/21689830" target="_blank"
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 9 days
 
 For publication: N/A
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 8.000 - 10.000 words (All)
 :::
 :::{grid-item-card} Publishing Charge
-Processing Charge: 
+:text-align: center
+Processing Charge: N/A
 
 Open Access fee: $3710 (no additional page charge)
 :::
@@ -301,12 +335,15 @@ Open Access fee: $3710 (no additional page charge)
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 1.2
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 7.0
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 N/A
 :::
 
@@ -316,14 +353,17 @@ N/A
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: N/A
 
 For publication: N/A
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 10.000 - 12.000 words (All)
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 Processing Charge: $1000
 
 Open Access fee: N/A

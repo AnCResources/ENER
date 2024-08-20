@@ -1,4 +1,4 @@
-# Educational Research Journals
+# Multidisciplinary/Education Focused
 
 ## Educational Researcher
 
@@ -11,12 +11,15 @@ Feature Articles present important new research results of broad significance. F
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center 
 5.4
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 62
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 N/A
 :::
 
@@ -26,14 +29,17 @@ N/A
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 7 - 9 weeks 
 
 For publication: N/A
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 5.000 (more at editors' discresion)
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 Publishing Charge: N/A
 
 Open Access fee: $ 2500
@@ -60,12 +66,15 @@ Publish papers that are accessible to a wide audience of educationalists with va
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 2.6
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 80
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 6%
 :::
 
@@ -75,14 +84,17 @@ Publish papers that are accessible to a wide audience of educationalists with va
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 2 days
 
 For publication: 165 days
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 N/A
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 Publishing Charge: N/A
 
 Open Access fee: $ 3050
@@ -111,12 +123,15 @@ Note that we accept well-structured conceptual or theoretical manuscripts. This 
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 1.05
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 10
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 N/A
 :::
 
@@ -126,14 +141,17 @@ N/A
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 20 days
 
 For publication: 8 weeks
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 N/A
 :::
 :::{grid-item-card} Publishing Charge
+:text-align: center
 Publishing Charge: N/A
 
 Open Access fee: $ 1590
@@ -157,6 +175,52 @@ This journal accepts: Qualitative, Quantitative, Mixed-Methods.
 ::::
 :::::
 
+## International Journal of STEM Education
+
+The <a href="https://stemeducationjournal.springeropen.com/" target="_blank" rel="noopener noreferrer">International Journal of STEM Education</a> is a multidisciplinary journal in subject-content education that focuses on the study of teaching and learning in science, technology, engineering, and mathematics (STEM). It is being established as a brand new, forward looking journal in the field of education. As a peer-reviewed journal, it is positioned to promote research and educational development in the rapidly evolving field of STEM education around the world.
+
+The International Journal of STEM Education provides a unique platform for sharing research regarding, among other topics, the design and implementation of technology-rich learning environments, innovative pedagogies, and curricula in STEM education that promote successful learning in Pre K-16 levels including teacher education. We are also interested in studies that address specific challenges in improving students’ achievement, approaches used to motivate and engage students, and lessons learned from changes in curriculum and instruction in STEM education. The journal encourages translational STEM education research that bridges research and educational policy and practice for STEM education improvement.
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Impact Factor
+:text-align: center
+5.6
+:::
+:::{grid-item-card} _h-index_
+:text-align: center
+N/A
+:::
+:::{grid-item-card} Acceptance Rate
+:text-align: center
+N/A
+::: 
+::::
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Avg. Time Publishing
+:text-align: center
+First decision: 8 days
+
+For publication: 224 days 
+:::
+
+:::{grid-item-card} Limit words/pages
+:text-align: center
+_"As concisely as possible"_
+:::
+:::{grid-item-card} Publishing Charge
+:text-align: center
+Publishing Charge: $ 1990
+
+Open Access fee: N/A
+:::
+
+::::
+
 
 ## Teachers and Teaching: Theory and Practice
 
@@ -176,12 +240,15 @@ _<a href="https://www.tandfonline.com/journals/ctat20" target="_blank" rel="noop
 :gutter: 3
 
 :::{grid-item-card} Impact Factor
+:text-align: center
 1.9
 :::
 :::{grid-item-card} _h-index_
+:text-align: center
 76
 :::
 :::{grid-item-card} Acceptance Rate
+:text-align: center
 11%
 :::
 
@@ -191,17 +258,20 @@ _<a href="https://www.tandfonline.com/journals/ctat20" target="_blank" rel="noop
 :gutter: 3
 
 :::{grid-item-card} Avg. Time Publishing
+:text-align: center
 First decision: 62 days
 
 For publication: 270 days
 :::
 :::{grid-item-card} Limit words/pages
+:text-align: center
 Research: 8.000 words (All)
 
 Review: 10.000 words (All)
 :::
 :::{grid-item-card} Publishing Charge
-Free - Payment available
+:text-align: center
+Publishing Charge: N/A
 
 Open Access fee: $4000
 :::

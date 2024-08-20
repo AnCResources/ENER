@@ -3,6 +3,17 @@
 
 format: jb-book
 root: intro
-chapters:
-- file: EngineeringEdJournals
-- file: GenEdJournals
+title: Introduction
+parts:
+- caption: Research Journals
+  maxdepth: 2
+  chapters:
+  - file: EngineeringEdJournals
+    title: Engineering Education Journals
+  - file: GenEdJournals
+    title: Educational Research Journals
+
+- caption: Other Resources
+  chapters:
+  - file: ResearchMet
+    title: Research Methods

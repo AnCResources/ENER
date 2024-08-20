@@ -4,8 +4,6 @@ The following are the list of journals focused only on the Engineering Education
 
 ## American Educational Research Journal
 
-### Scope
-
 The _<a href="https://us.sagepub.com/en-us/nam/journal/american-educational-research-journal" target="_blank" rel="noopener noreferrer">American Educational Research Journal </a>_ (_AERJ_) is the flagship journal of the American Educational Research Association, featuring articles that advance the empirical, theoretical, and methodological understanding of education and learning. It publishes original peer-reviewed analyses that span the field of education research across all subfields and disciplines and all levels of analysis. It also encourages submissions across all levels of education throughout the life span and all forms of learning. _AERJ_ welcomes submissions of the highest quality, reflecting a wide range of perspectives, topics, contexts, and methods, including interdisciplinary and multidisciplinary work.
 
 ::::{grid}
@@ -45,7 +43,7 @@ Open Access fee: $2500
 
 
 ## Computer Applications in Engineering Education
-### Scope
+
 <a href="https://onlinelibrary.wiley.com/journal/10990542" target="_blank" rel="noopener noreferrer">Computer Applications in Engineering Education</a> provides a forum for publishing peer-reviewed timely information on the innovative uses of computers, Internet, and software tools in engineering education.  Besides new courses and software tools, the CAE journal covers areas that support the integration of technology-based modules in the engineering curriculum and promotes discussion of the assessment and dissemination issues associated with these new implementation methods.Both contributed and review articles are welcomed for consideration and possible publication in CAE.
 
 The journal publishes research articles in the following areas:
@@ -116,8 +114,6 @@ This journal accepts: Qualitative, Quantitative, Mixed-Methods.
 
 ## Engineering Studies
 
-### Scope
-
 _<a href="https://www.tandfonline.com/journals/test20" target="_blank" rel="noopener noreferrer">Engineering Studies</a>_ is an interdisciplinary, international journal devoted to the scholarly study of engineers and engineering. Its mission is threefold: 1. to advance critical analysis in historical, social, cultural, political, philosophical, rhetorical, and organizational studies of engineers and engineering; 2. to help build and serve diverse communities of researchers interested in engineering studies; 3. to link scholarly work in engineering studies with broader discussions and debates about engineering education, research, practice, policy, and representation.
 
 Questions that editors are interested in:
@@ -164,7 +160,6 @@ Open Access fee: $4000
 
 ## International Journal of Engineering Education
 
-### Scope
 The <a href="https://www.ijee.ie/" target="_blank" rel="noopener noreferrer">International Journal of Engineering Education</a> (IJEE) is an independent, peer-reviewed journal. It has been serving as an international archival forum of scholarly research related to engineering education for over thirty years. The Journal publishes six issues per year. These include, from time to time, special issues on specific engineering education topics.
 
 Only manuscripts that have a focus on engineering education will be considered for publication.
@@ -204,8 +199,6 @@ Open Access fee: $95 per page
 
 
 ## International Journal of Engineering Pedagogy
-
-### Scope
 
 The  <a href="https://online-journals.org/index.php/i-jep" target="_blank" rel="noopener noreferrer">International Journal of Engineering Pedagogy</a>  (iJEP) is an independent, peer-reviewed online journal. It serves as an international forum related to engineering education, published at present four times a year. Teachers, educators and researchers as well as schools and institutions are invited to discuss their research, experiences, ideas and perspectives in the field of engineering pedagogy at a worldwide level.
 
@@ -264,7 +257,6 @@ Open Access fee: free
 
 ## Journal of Engineering Education
 
-### Scope
 The _<a href="https://onlinelibrary.wiley.com/journal/21689830" target="_blank" rel="noopener noreferrer">Journal of Engineering Education</a>_ publishes manuscripts in a wide variety of research areas in the field of engineering education. A description of current research areas in engineering education may be found in the special report, “The Research Agenda for the New Discipline of Engineering Education,” _Journal of Engineering Education,_ vol. 95, no. 4 (October 2006), pp. 259-261. This report identifies five broad research areas:  (1) engineering epistemologies (what constitutes engineering thinking and knowledge), (2) engineering learning mechanisms (how learners develop knowledge and competencies), (3) engineering learning systems (instructional cultures and institutional practices), (4) engineering diversity and inclusiveness (how human diversity contributes to engineering processes and products), and (5) engineering assessment (development and use of assessment methods, instruments, and metrics).
 
 ::::{grid}
@@ -302,8 +294,6 @@ Open Access fee: $3710 (no additional page charge)
 ::::
 
 ## Studies in Engineering Education
-
-### Scope: 
 
 <a href="https://seejournal.org/" target="_blank" rel="noopener noreferrer">Studies in Engineering Education</a>  focuses on interpretive research paradigms and invites a wide range of studies that help expand the body of knowledge in engineering education, including ethnographic, anthropological, phenomenological, and other forms of empirical research, as well as literature reviews and theoretical or conceptual articles that seek to frame critical issues in the field. Studies can be conducted in any context relevant to engineering education, including K-12, higher education, classroom settings, and the engineering workplace.
 

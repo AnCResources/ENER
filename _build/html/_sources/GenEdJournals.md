@@ -2,8 +2,8 @@
 
 ## Educational Researcher
 
-_<a href="https://journals.sagepub.com/home/EDR" target="_blank" rel="noopener noreferrer">Educational Researcher</a>_ publishes scholarly articles that are of general significance to the education research community and that come from a wide range of areas of education research and related disciplines. _ER_ aims to make major programmatic research and new findings of broad importance widely accessible. It is published nine times per year.
-_ER_ encourages submissions of three types of research articles—feature articles, reviews/essays, and briefs.
+_<a href="https://journals.sagepub.com/home/EDR" target="_blank" rel="noopener noreferrer">Educational Researcher</a>_ publishes scholarly articles that are of general significance to the education research community and that come from a wide range of areas of education research and related disciplines. _ER_ aims to make major programmatic research and new findings of broad importance widely accessible. It is published nine times per year.
+_ER_ encourages submissions of three types of research articles-feature articles, reviews/essays, and briefs.
 
 Feature Articles present important new research results of broad significance. Feature articles should include an abstract, an introductory paragraph, up to five figures or tables, and up to 40 references, with text totaling no more than 5,000 words. Significant feature articles may be somewhat longer than 5,000 words at the discretion of the editors. Methods need to be sufficiently presented in research article to warrant results, but information should usually be included in supplementary online material to further support the paper's conclusions. All Feature Articles undergo peer review; they may be solicited or unsolicited.
 

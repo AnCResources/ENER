@@ -174,6 +174,25 @@ Open Access fee: $4000
 
 ::::
 
+:::::{Dropdown}  To take into account
+:color: info
+:animate: fade-in
+:icon: pencil
+
+::::{tab-set}
+:::{tab-item} About the Journal
+This journal focuses on the criticallity. The critical research about Engineering is important to consider it. 
+:::
+:::{tab-item} Research Methods
+This journal accepts: Qualitative, Quantitative, Mixed-Methods.
+:::
+:::{tab-item} Editors and board
+- To be added.
+:::
+::::
+:::::
+
+
 ## International Journal of Engineering Education
 
 The <a href="https://www.ijee.ie/" target="_blank" rel="noopener noreferrer">International Journal of Engineering Education</a> (IJEE) is an independent, peer-reviewed journal. It has been serving as an international archival forum of scholarly research related to engineering education for over thirty years. The Journal publishes six issues per year. These include, from time to time, special issues on specific engineering education topics.
@@ -222,7 +241,7 @@ Open Access fee: $95 per page
 
 ## International Journal of Engineering Pedagogy
 
-The  <a href="https://online-journals.org/index.php/i-jep" target="_blank" rel="noopener noreferrer">International Journal of Engineering Pedagogy</a>  (iJEP) is an independent, peer-reviewed online journal. It serves as an international forum related to engineering education, published at present four times a year. Teachers, educators and researchers as well as schools and institutions are invited to discuss their research, experiences, ideas and perspectives in the field of engineering pedagogy at a worldwide level.
+The <a href="https://online-journals.org/index.php/i-jep" target="_blank" rel="noopener noreferrer">International Journal of Engineering Pedagogy</a>  (iJEP) is an independent, peer-reviewed online journal. It serves as an international forum related to engineering education, published at present four times a year. Teachers, educators and researchers as well as schools and institutions are invited to discuss their research, experiences, ideas and perspectives in the field of engineering pedagogy at a worldwide level.
 
 iJEP is open to all aspects of engineering pedagogy. Major fields of interest include
 

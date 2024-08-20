@@ -2,7 +2,6 @@
 
 ## Educational Researcher
 
-### Scope
 _<a href="https://journals.sagepub.com/home/EDR" target="_blank" rel="noopener noreferrer">Educational Researcher</a>_ publishes scholarly articles that are of general significance to the education research community and that come from a wide range of areas of education research and related disciplines. _ER_ aims to make major programmatic research and new findings of broad importance widely accessible. It is published nine times per year.
 _ER_ encourages submissions of three types of research articles—feature articles, reviews/essays, and briefs.
 
@@ -45,7 +44,6 @@ Open Access fee: $ 2500
 
 ## International Journal of Educational Research 
 
-### Scope
 The <a href="https://www.sciencedirect.com/journal/international-journal-of-educational-research" target="_blank" rel="noopener noreferrer">International Journal of Educational Research</a> publishes research papers in the field of Education. Papers published in IJER address themes of major interest to researchers, practitioners, and policy makers working in different international contexts. Work must be of a quality and context that the Editorial Board think would be of interest to an international readership. The aims and scope of the journals are to:
 
 Publish high quality papers that are of international significance in terms of design and/or findings;
@@ -95,7 +93,6 @@ Open Access fee: $ 3050
 
 ## International Journal of Educational Research Open
 
-### Scope
 The <a href="https://www.sciencedirect.com/journal/international-journal-of-educational-research-open" target="_blank" rel="noopener noreferrer"> International Journal of Educational Research Open </a> (IJEDRO) is a companion title of the International Journal of Educational Research (IJER). IJEDRO is an open access, peer-reviewed journal which draws contributions from a wide community of international and interdisciplinary researchers across the field of educational research. We seek contributions that present innovative application of theories, conceptual frameworks and research methodologies, and which inform research, policy and practice beyond the context in which the original work is undertaken.
 
 The International Journal of Educational Research Open so so-named to reflect our international facing publication portfolio and readership. Contributions do not need to be comparative (in the sense of comparing aspects of education in different countries or cultures) or report research carried out in just one location or cultural setting. However, contributions to the International Journal of Educational Research Open need to be thought-provoking, contribute to the educational research field, and inspire international, interdisciplinary readership. Therefore, contributions must have the following features:
@@ -162,8 +159,6 @@ This journal accepts: Qualitative, Quantitative, Mixed-Methods.
 
 
 ## Teachers and Teaching: Theory and Practice
-
-### Scope
 
 _<a href="https://www.tandfonline.com/journals/ctat20" target="_blank" rel="noopener noreferrer">Teachers and Teaching: Theory and Practice</a>_ provides an international focal point for the publication of research about teachers, teacher education and teaching in _schools, colleges and universities_. It offers a means of communication and dissemination of completed research and research in progress, whilst also providing a forum for debate between researchers. This unique journal draws together robust qualitative and quantitative research from different countries and cultures which focus on the individual, social, policy and historical contexts of teaching as work. It includes theoretical reflections on the connections between theory, practice and policy in teachers’ and teacher educators’ work and related research of professional interest such as:
 

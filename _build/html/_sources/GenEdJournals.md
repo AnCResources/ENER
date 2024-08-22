@@ -175,6 +175,73 @@ This journal accepts: Qualitative, Quantitative, Mixed-Methods.
 ::::
 :::::
 
+
+## International Journal of Qualitative Studies in Education
+
+The aim of the <a href="https://www.tandfonline.com/journals/tqse20" target="_blank" rel="noopener noreferrer">International Journal of Qualitative Studies in Education</a> (popularly known as QSE) is to enhance the practice and theory of qualitative research in education, with "education" defined in the broadest possible sense, including non-school settings.
+
+The journal publishes peer-reviewed empirical research focused on critical issues of racism (including whiteness, white racism, and white supremacy), capitalism and its class structure (including critiques of neoliberalism), gender and gender identity, heterosexism and homophobia, LGBTQI/queer issues, home culture and language biases, immigration xenophobia, domination, and other issues of oppression and exclusion.
+
+Research may employ a variety of qualitative methods and approaches, such as ethnography, grounded theory, life history, case study, curriculum criticism, policy studies, narrative, ethnomethodology, social/educational critique, phenomenology, deconstruction, genealogy and autoethnography, amongst others. In addition, innovative or provocative approaches to qualitative research as well as the way research is reported are encouraged. We also welcome theoretical papers, including discussions of ontology, epistemology, methodology, or ethics from a broad range of perspectives.
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Impact Factor
+:text-align: center
+1.1
+:::
+:::{grid-item-card} _h-index_
+:text-align: center
+76
+:::
+:::{grid-item-card} Acceptance Rate
+:text-align: center
+22%
+:::
+
+::::
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Avg. Time Publishing
+:text-align: center
+First decision: 42 days
+
+For publication: 127 days
+:::
+
+:::{grid-item-card} Limit words/pages
+:text-align: center
+Research: 9.000 words (All)
+
+:::
+:::{grid-item-card} Publishing Charge
+:text-align: center
+Publishing Charge: N/A
+
+Open Access fee: $4000
+:::
+
+::::
+
+
+:::::{Dropdown}  To take into account
+:color: info
+:animate: fade-in
+:icon: pencil
+
+::::{tab-set}
+:::{tab-item} About the Journal
+N/A
+:::
+:::{tab-item} Research Methods
+Qualitative methods and approaches, such as ethnography, grounded theory, life history, case study, curriculum criticism, policy studies, narrative, ethnomethodology, social/educational critique, phenomenology, deconstruction, genealogy and autoethnography, amongst others.
+:::
+::::
+:::::
+
 ## International Journal of STEM Education
 
 The <a href="https://stemeducationjournal.springeropen.com/" target="_blank" rel="noopener noreferrer">International Journal of STEM Education</a> is a multidisciplinary journal in subject-content education that focuses on the study of teaching and learning in science, technology, engineering, and mathematics (STEM). It is being established as a brand new, forward looking journal in the field of education. As a peer-reviewed journal, it is positioned to promote research and educational development in the rapidly evolving field of STEM education around the world.
@@ -220,6 +287,144 @@ Open Access fee: N/A
 :::
 
 ::::
+
+
+## Research in Higher Education
+
+<a href="https://link.springer.com/journal/11162" target="_blank" rel="noopener noreferrer">Research in Higher Education</a> is a journal that publishes empirical research on postsecondary education. The journal is open to studies using a wide range of methods, but has particular interest in studies that apply advanced quantitative research methods to issues in postsecondary education or address postsecondary education policy issues. Authors should directly address why their analytic sample is appropriate for addressing their research questions and how the study's findings could be applicable to other contexts, situations, times, and populations.
+
+Among the topics of interest to the journal are: access and retention; student success; equity; faculty issues; institutional productivity and assessment; postsecondary education governance; curriculum and instruction; state and federal higher education policy; and financing of postsecondary education. The journal encourages submissions from scholars in disciplines outside of higher education, and studies from outside the United States that address issues that are of interest to the readership. To be considered a contribution to this journal, manuscripts should engage with literature published in journals in the field of higher education and draw out the implications of the results for higher education. The journal will on occasion publish short notes of a methodological nature, literature reviews of topics pertaining to postsecondary research, and "research and practice" studies illustrating how postsecondary research can inform decision making.
+
+
+Open to studies using a wide range of methods, with a special interest in advanced quantitative research methods.
+Covers topics such as student access, retention, success, faculty issues, institutional assessment, and higher education policy.
+Encourages submissions from scholars in disciplines outside of higher education.
+Publishes notes of a methodological nature, literature reviews and 'research and practice' studies.
+Aims to inform decision-making in postsecondary education policy and administration.
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Impact Factor
+:text-align: center
+2.92
+:::
+:::{grid-item-card} _h-index_
+:text-align: center
+105
+:::
+:::{grid-item-card} Acceptance Rate
+:text-align: center
+N/A
+:::
+::::
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Avg. Time Publishing
+:text-align: center
+First decision: N/A
+
+For publication: N/A
+:::
+:::{grid-item-card} Limit words/pages
+:text-align: center
+(20 - 40 pages) 10.000 words (All)
+
+:::
+:::{grid-item-card} Publishing Charge
+:text-align: center
+Processing Charge: N/A
+
+Open Access fee: $2890
+:::
+::::
+
+:::::{Dropdown}  To take into account
+:color: info
+:animate: fade-in
+:icon: pencil
+
+::::{tab-set}
+:::{tab-item} About the Journal
+N/A
+:::
+:::{tab-item} Research Methods
+N/A
+:::
+:::{tab-item} Editors and board
+- To be added.
+:::
+::::
+:::::
+
+## Studies in Higher Education
+
+<a href="https://www.tandfonline.com/journals/cshe20" target="_blank" rel="noopener noreferrer">Studies in Higher Education</a> is a leading international journal publishing research-based articles dealing with higher education issues from either a disciplinary or multi-disciplinary perspective. Empirical, theoretical and conceptual articles of significant originality will be considered. Manuscripts are expected to be grounded in the higher education literature and contribute to it through substantive new empirical findings or novel insights.
+
+The Journal welcomes contributions that seek to enhance understanding of higher education policy, institutional management and performance, teaching and learning, and the contribution of higher education to society and the economy. Comparative studies and analysis of inter-system and cross-national issues are particularly welcomed, as are those addressing global and international themes. The Journal also annually publishes two special issues on topics of international significance to higher education
+
+As interest in research on higher education has expanded internationally, SHE has experienced a remarkable growth in the number of submissions. As a result, our rejection rate is higher than we, reviewers, and most importantly authors would ideally like. To try and mitigate this we encourage prospective authors whose manuscripts deal with more circumscribed topics and issues of interest to a local or regional audience within a particular national context to consider a specialist journal which might be a more suitable outlet for their work.
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Impact Factor
+:text-align: center
+3.7
+:::
+:::{grid-item-card} _h-index_
+:text-align: center
+105
+:::
+:::{grid-item-card} Acceptance Rate
+:text-align: center
+14%
+:::
+::::
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Avg. Time Publishing
+:text-align: center
+First decision: 11 days
+
+For publication: 66 days
+:::
+:::{grid-item-card} Limit words/pages
+:text-align: center
+(20 - 40 pages) 10.000 words (All)
+
+:::
+:::{grid-item-card} Publishing Charge
+:text-align: center
+Processing Charge: None
+
+Open Access fee: None
+
+(Cost per color figure $400)
+:::
+::::
+
+:::::{Dropdown}  To take into account
+:color: info
+:animate: fade-in
+:icon: pencil
+
+::::{tab-set}
+:::{tab-item} About the Journal
+N/A
+:::
+:::{tab-item} Research Methods
+N/A
+:::
+:::{tab-item} Editors and board
+- To be added.
+:::
+::::
+:::::
 
 
 ## Teachers and Teaching: Theory and Practice

@@ -304,7 +304,7 @@ Open Access fee: free
 
 ## Journal of Engineering Education
 
-The _<a href="https://onlinelibrary.wiley.com/journal/21689830" target="_blank" rel="noopener noreferrer">Journal of Engineering Education</a>_ publishes manuscripts in a wide variety of research areas in the field of engineering education. A description of current research areas in engineering education may be found in the special report, “The Research Agenda for the New Discipline of Engineering Education,” _Journal of Engineering Education,_ vol. 95, no. 4 (October 2006), pp. 259-261. This report identifies five broad research areas:  (1) engineering epistemologies (what constitutes engineering thinking and knowledge), (2) engineering learning mechanisms (how learners develop knowledge and competencies), (3) engineering learning systems (instructional cultures and institutional practices), (4) engineering diversity and inclusiveness (how human diversity contributes to engineering processes and products), and (5) engineering assessment (development and use of assessment methods, instruments, and metrics).
+The _<a href="https://onlinelibrary.wiley.com/journal/21689830" target="_blank" rel="noopener noreferrer">Journal of Engineering Education</a>_ publishes manuscripts in a wide variety of research areas in the field of engineering education. A description of current research areas in engineering education may be found in the special report, "The Research Agenda for the New Discipline of Engineering Education," _Journal of Engineering Education,_ vol. 95, no. 4 (October 2006), pp. 259-261. This report identifies five broad research areas: (1) engineering epistemologies (what constitutes engineering thinking and knowledge), (2) engineering learning mechanisms (how learners develop knowledge and competencies), (3) engineering learning systems (instructional cultures and institutional practices), (4) engineering diversity and inclusiveness (how human diversity contributes to engineering processes and products), and (5) engineering assessment (development and use of assessment methods, instruments, and metrics).
 
 ::::{grid}
 :gutter: 3
@@ -345,6 +345,11 @@ Open Access fee: $3710 (no additional page charge)
 :::
 
 ::::
+
+
+
+
+
 
 ## Studies in Engineering Education
 

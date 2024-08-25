@@ -431,12 +431,12 @@ N/A
 
 _<a href="https://www.tandfonline.com/journals/ctat20" target="_blank" rel="noopener noreferrer">Teachers and Teaching: Theory and Practice</a>_ provides an international focal point for the publication of research about teachers, teacher education and teaching in _schools, colleges and universities_. It offers a means of communication and dissemination of completed research and research in progress, whilst also providing a forum for debate between researchers. This unique journal draws together robust qualitative and quantitative research from different countries and cultures which focus on the individual, social, policy and historical contexts of teaching as work. It includes theoretical reflections on the connections between theory, practice and policy in teachers’ and teacher educators’ work and related research of professional interest such as:
 
-- teachers’ and teacher educators’ beliefs, thoughts, conceptions, practical theories  
-- teachers’ biographies, life histories, ‘voice’, personal practical knowledge  
-- teachers’ intentions, thoughts processes and cognitions  
-- teachers’ understanding of subject matter  
-- teachers’ professionalism and professional identities as a part of professional action  
-- teachers’ values, motivations, commitment and resilience as influenced by contextual factors in their structural, cultural and social environments  
+- teachers' and teacher educators' beliefs, thoughts, conceptions, practical theories  
+- teachers' biographies, life histories, 'voice', personal practical knowledge  
+- teachers' intentions, thoughts processes and cognitions  
+- teachers' understanding of subject matter  
+- teachers' professionalism and professional identities as a part of professional action  
+- teachers' values, motivations, commitment and resilience as influenced by contextual factors in their structural, cultural and social environments  
 - teacher evaluation and professional development  
 - student/teacher learning  
 - mentoring and mentored learning in school and university settings
@@ -483,3 +483,77 @@ Open Access fee: $4000
 
 ::::
 
+
+## Teaching in Higher Education
+
+<a href="https://www.tandfonline.com/journals/cthe20" target="_blank" rel="noopener noreferrer">Teaching in Higher Education</a> has become an internationally recognised field, which is more than ever open to multiple forms of contestation. However, the intellectual challenge which teaching presents has been inadequately acknowledged and theorised in higher education.
+
+Teaching in Higher Education seeks to develop a discourse of teaching and learning which transcends disciplinary boundaries and specialisms whilst drawing upon the rigour of a range of disciplines. It takes a view of learning which entails concepts of transformation and critique in relation to dominant traditions and visions. It will therefore appeal to those who wish to explore how such aims might be realised through a commitment to teaching in a variety of cultural and disciplinary contexts represented in higher education internationally.
+
+The journal welcomes significant contributions that aim to develop sustained reflection, investigation and critique, and that critically identify new agendas for research, for example by: 
+- examining the impact on teaching exerted by wider contextual factors such as policy, funding, institutional change and the expectations of society;
+- developing conceptual analyses of pedagogical issues and debates, such as authority, power, assessment and the nature of understanding;
+- exploring the various values which underlie teaching including those concerned with social and epistemic justice, and equity;
+- offering critical accounts of lived experiences of higher education pedagogies which bring together theory and practice.
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Impact Factor
+:text-align: center
+2.4
+:::
+:::{grid-item-card} _h-index_
+:text-align: center
+N/A
+:::
+:::{grid-item-card} Acceptance Rate
+:text-align: center
+12%
+:::
+::::
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Avg. Time Publishing
+:text-align: center
+First decision: 29 days
+
+For publication: 91 days
+:::
+:::{grid-item-card} Limit words/pages
+:text-align: center
+7.000 words (without references)
+
+:::
+:::{grid-item-card} Publishing Charge
+:text-align: center
+Processing Charge: None
+
+Open Access fee: $2900
+(color figures $400 each)
+:::
+::::
+
+:::::{Dropdown}  To take into account
+:color: info
+:animate: fade-in
+:icon: pencil
+
+::::{tab-set}
+:::{tab-item} About the Journal
+Please note that the journal does not publish:
+- descriptions and/or evaluations of policy and/or practice;
+- localised case studies that are not contextualized and theorised;
+- large-scale surveys that are not theoretically and critically analysed;
+- studies that simply replicate previous work without establishing originality
+:::
+:::{tab-item} Research Methods
+N/A
+:::
+:::{tab-item} Editors and board
+- To be added.
+:::
+::::
+:::::

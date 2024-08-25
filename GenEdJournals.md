@@ -532,6 +532,7 @@ For publication: 91 days
 Processing Charge: None
 
 Open Access fee: $2900
+
 (color figures $400 each)
 :::
 ::::

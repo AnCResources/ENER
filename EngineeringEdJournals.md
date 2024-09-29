@@ -193,6 +193,78 @@ This journal accepts: Qualitative, Quantitative, Mixed-Methods.
 :::::
 
 
+## European Journal of Engineering Education
+
+_<a href="https://www.tandfonline.com/journals/ceee20" target="_blank" rel="noopener noreferrer">European Journal of Engineering Education</a>_  is a forum for scholarly dialogue to further engineering education.
+
+* The journal embraces multiple perspectives to examine relevant conditions, developments, approaches, methods and experiences relevant for the education of engineers.
+* It is a European journal with global readership and authorship. While the European context is emphasised, papers presenting wider international or intercultural dimensions, of interest to our readers, could also be considered for publication.
+* The journal focuses on higher engineering education. It could also consider related contexts of general interest to the engineering education community, such as prior education.
+
+European Journal of Engineering Education invites relevant contributions that combine scholarliness with usefulness for improving engineering education.
+
+* Usefulness implies that papers should be useful to readers outside the context where the work was made. Usefulness can take many forms, to readers who can be educators, researchers, specialists, leaders, or other stakeholders of engineering education.
+* Scholarliness refers to the significance and novelty of the contribution, consistency and soundness of the research approach, connection to relevant literature, coherence and readability of the paper, as well as credibility and quality of the ideas and insights generated.
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Impact Factor
+:text-align: center
+2.0
+:::
+:::{grid-item-card} _h-index_
+:text-align: center
+40
+:::
+:::{grid-item-card} Acceptance Rate
+:text-align: center
+22%
+:::
+
+::::
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Avg. Time Publishing
+:text-align: center
+First decision: 26 days
+
+For publication: 105 days
+:::
+:::{grid-item-card} Limit words/pages
+:text-align: center
+6.000 - 10.000 words (All)
+
+:::
+:::{grid-item-card} Publishing Charge
+:text-align: center
+Processing Charge: $400 (Color figures in print)
+
+Open Access fee: N/A
+:::
+
+::::
+
+:::::{Dropdown}  To take into account
+:color: info
+:animate: fade-in
+:icon: pencil
+
+::::{tab-set}
+:::{tab-item} About the Journal
+- To be added
+:::
+:::{tab-item} Research Methods
+This journal accepts: Qualitative, Quantitative, Mixed-Methods.
+:::
+:::{tab-item} Editors and board
+- To be added.
+:::
+::::
+:::::
+
 ## International Journal of Engineering Education
 
 The <a href="https://www.ijee.ie/" target="_blank" rel="noopener noreferrer">International Journal of Engineering Education</a> (IJEE) is an independent, peer-reviewed journal. It has been serving as an international archival forum of scholarly research related to engineering education for over thirty years. The Journal publishes six issues per year. These include, from time to time, special issues on specific engineering education topics.

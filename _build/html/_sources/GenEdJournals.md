@@ -288,6 +288,56 @@ Open Access fee: N/A
 
 ::::
 
+## Higher Education Journal
+
+<a href="https://link.springer.com/journal/10734" target="_blank" rel="noopener noreferrer">Higher Education</a> is recognised as the leading international journal of Higher Education studies, publishing twelve separate numbers each year. Since its establishment in 1972, Higher Education has followed educational developments throughout the world in universities, polytechnics, colleges, and vocational and education institutions. It has actively endeavoured to report on developments in both public and private Higher Education sectors. Contributions have come from leading scholars from different countries while articles have tackled the problems of teachers as well as students, and of planners as well as administrators.
+
+While each Higher Education system has its own distinctive features, common problems and issues are shared internationally by researchers, teachers and institutional leaders. Higher Education offers opportunities for exchange of research results, experience and insights, and provides a forum for ongoing discussion between experts.
+
+Higher Education publishes authoritative overview articles, comparative studies and analyses of particular problems or issues. All contributions are peer reviewed.
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Impact Factor
+:text-align: center
+3.6
+:::
+:::{grid-item-card} _h-index_
+:text-align: center
+71
+:::
+:::{grid-item-card} Acceptance Rate
+:text-align: center
+N/A
+::: 
+::::
+
+::::{grid}
+:gutter: 3
+
+:::{grid-item-card} Avg. Time Publishing
+:text-align: center
+First decision: 8 days
+
+For publication: N/A 
+:::
+
+:::{grid-item-card} Limit words/pages
+:text-align: center
+8.000 words (including all)
+:::
+:::{grid-item-card} Publishing Charge
+:text-align: center
+Publishing Charge: N/A
+
+Open Access fee: $ 3090
+:::
+
+::::
+
+
+
 
 ## Research in Higher Education
 
@@ -376,7 +426,7 @@ As interest in research on higher education has expanded internationally, SHE ha
 :::
 :::{grid-item-card} _h-index_
 :text-align: center
-105
+81
 :::
 :::{grid-item-card} Acceptance Rate
 :text-align: center
